@@ -20,4 +20,5 @@ six==1.16.0
 sniffio==1.3.0
 tzdata==2023.3
 gunicorn==19.7.1
-calc==1.0
+calc==1.0 
+nodejs 0.1.1

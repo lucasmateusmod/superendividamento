@@ -1,1 +1,1 @@
-web: gunicorn calcsuper3:app
+web: gunicorn app:app
